@@ -1,0 +1,111 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "websites": "Webseiten",
+    "seoMarketing": "SEO Marketing",
+    "agenticAutomation": "Agentic Automation",
+    "contact": "Kontakt",
+    "about": "Über uns"
+  },
+  "services": {
+    "websites": {
+      "title": "Professionelle Webseiten-Entwicklung",
+      "slug": "webseiten",
+      "description": "Moderne, responsive Webseiten, die Besucher zu Kunden machen",
+      "meta": {
+        "title": "Professionelle Webseiten-Entwicklung in Berlin | OMH Digital",
+        "description": "Experten-Webseiten-Entwicklung in Berlin. Moderne, responsive und konversionsorientierte Web-Lösungen für Ihr Unternehmen."
+      }
+    },
+    "seoMarketing": {
+      "title": "SEO Marketing & Optimierung",
+      "slug": "seo-marketing",
+      "description": "Datengetriebene SEO-Strategien zur Verbesserung Ihrer Suchmaschinen-Rankings",
+      "meta": {
+        "title": "SEO Marketing Services in Berlin | Digital Marketing Agentur",
+        "description": "Professionelle SEO Marketing Services in Berlin. Steigern Sie Ihre Online-Sichtbarkeit und organischen Traffic mit bewährten Strategien."
+      }
+    },
+    "agenticAutomation": {
+      "title": "Agentic KI Automatisierung",
+      "slug": "agentic-automation",
+      "description": "Intelligente Automatisierungslösungen mit fortschrittlichen KI-Agenten",
+      "meta": {
+        "title": "KI Automatisierung Services in Berlin | Agentic AI Lösungen",
+        "description": "Transformieren Sie Ihr Unternehmen mit intelligenter KI-Automatisierung. Professionelle Agentic AI Services in Berlin für optimierte Abläufe."
+      }
+    }
+  },
+  "locations": {
+    "berlin": {
+      "name": "Berlin",
+      "slug": "berlin"
+    }
+  },
+  "homepage": {
+    "hero": {
+      "title": "Digitale SEO Services mit smarter Agentic KI",
+      "subtitle": "Transformieren Sie Ihr Unternehmen mit modernsten digitalen Lösungen in Berlin",
+      "cta": "Jetzt starten"
+    },
+    "services": {
+      "title": "Unsere Dienstleistungen",
+      "subtitle": "Umfassende digitale Lösungen für moderne Unternehmen"
+    },
+    "about": {
+      "title": "Über OMH Digital",
+      "description": "Führende digitale Agentur in Berlin mit Spezialisierung auf KI-basierte Lösungen"
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "address": "Adresse",
+    "email": "E-Mail",
+    "getInTouch": "Kontakt aufnehmen"
+  },
+  "common": {
+    "readMore": "Mehr lesen",
+    "learnMore": "Mehr erfahren",
+    "getQuote": "Angebot erhalten",
+    "contactUs": "Kontakt aufnehmen",
+    "ourServices": "Unsere Dienstleistungen",
+    "whyChooseUs": "Warum uns wählen",
+    "getStarted": "Jetzt starten",
+    "viewProject": "Projekt ansehen",
+    "ourProcess": "Unser Prozess",
+    "results": "Ergebnisse",
+    "clients": "Kunden",
+    "germany": "Deutschland"
+  },
+  "blocks": {
+    "hero": {
+      "cta": "Jetzt starten"
+    },
+    "features": {
+      "title": "Warum unsere {service} wählen?",
+      "subtitle": "Professionelle Lösungen maßgeschneidert für Ihre Geschäftsanforderungen"
+    },
+    "process": {
+      "title": "Unser Prozess",
+      "subtitle": "Wie wir außergewöhnliche Ergebnisse liefern"
+    },
+    "caseStudies": {
+      "title": "Erfolgsgeschichten",
+      "subtitle": "Echte Ergebnisse für echte Unternehmen"
+    },
+    "technology": {
+      "title": "Technologie Stack",
+      "subtitle": "Modernste Tools und Plattformen"
+    },
+    "localAdvantage": {
+      "title": "Berlin Vorteil",
+      "subtitle": "Lokale Expertise, globale Standards"
+    },
+    "cta": {
+      "title": "Bereit anzufangen?",
+      "subtitle": "Lassen Sie uns über Ihr Projekt sprechen",
+      "button": "Jetzt Kontakt aufnehmen"
+    }
+  }
+}

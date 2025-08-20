@@ -1,0 +1,111 @@
+{
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "websites": "Websites",
+    "seoMarketing": "SEO Marketing",
+    "agenticAutomation": "Agentic Automation",
+    "contact": "Contact",
+    "about": "About"
+  },
+  "services": {
+    "websites": {
+      "title": "Professional Website Development",
+      "slug": "websites",
+      "description": "Modern, responsive websites that convert visitors into customers",
+      "meta": {
+        "title": "Professional Website Development in Berlin | OMH Digital",
+        "description": "Expert website development services in Berlin. Modern, responsive, and conversion-focused web solutions for your business."
+      }
+    },
+    "seoMarketing": {
+      "title": "SEO Marketing & Optimization",
+      "slug": "seo-marketing",
+      "description": "Data-driven SEO strategies to boost your search engine rankings",
+      "meta": {
+        "title": "SEO Marketing Services in Berlin | Digital Marketing Agency",
+        "description": "Professional SEO marketing services in Berlin. Increase your online visibility and drive organic traffic with our proven strategies."
+      }
+    },
+    "agenticAutomation": {
+      "title": "Agentic AI Automation",
+      "slug": "agentic-automation",
+      "description": "Intelligent automation solutions powered by advanced AI agents",
+      "meta": {
+        "title": "AI Automation Services in Berlin | Agentic AI Solutions",
+        "description": "Transform your business with intelligent AI automation. Professional agentic AI services in Berlin for streamlined operations."
+      }
+    }
+  },
+  "locations": {
+    "berlin": {
+      "name": "Berlin",
+      "slug": "berlin"
+    }
+  },
+  "homepage": {
+    "hero": {
+      "title": "Digital SEO Services Powered by Smart Agentic AI",
+      "subtitle": "Transform your business with cutting-edge digital solutions in Berlin",
+      "cta": "Get Started"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive digital solutions for modern businesses"
+    },
+    "about": {
+      "title": "About OMH Digital",
+      "description": "Leading digital agency in Berlin specializing in AI-powered solutions"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "address": "Address",
+    "email": "Email",
+    "getInTouch": "Get in Touch"
+  },
+  "common": {
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "getQuote": "Get Quote",
+    "contactUs": "Contact Us",
+    "ourServices": "Our Services",
+    "whyChooseUs": "Why Choose Us",
+    "getStarted": "Get Started",
+    "viewProject": "View Project",
+    "ourProcess": "Our Process",
+    "results": "Results",
+    "clients": "Clients",
+    "germany": "Germany"
+  },
+  "blocks": {
+    "hero": {
+      "cta": "Get Started Today"
+    },
+    "features": {
+      "title": "Why Choose Our {service}?",
+      "subtitle": "Professional solutions tailored to your business needs"
+    },
+    "process": {
+      "title": "Our Process",
+      "subtitle": "How we deliver exceptional results"
+    },
+    "caseStudies": {
+      "title": "Success Stories",
+      "subtitle": "Real results for real businesses"
+    },
+    "technology": {
+      "title": "Technology Stack",
+      "subtitle": "Cutting-edge tools and platforms"
+    },
+    "localAdvantage": {
+      "title": "Berlin Advantage",
+      "subtitle": "Local expertise, global standards"
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "subtitle": "Let's discuss your project",
+      "button": "Contact Us Today"
+    }
+  }
+}
