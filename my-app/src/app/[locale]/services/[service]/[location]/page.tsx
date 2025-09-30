@@ -1,4 +1,3 @@
-import { useTranslations } from 'next-intl';
 import { notFound } from 'next/navigation';
 import Header from '../../../../../components/Header';
 import Footer from '../../../../../components/Footer';
@@ -43,7 +42,7 @@ export async function generateMetadata({params}: {params: {locale: string; servi
   const {locale, service, location} = params;
   
   const serviceKey = serviceMap[service as keyof typeof serviceMap];
-  if (!serviceKey || !locations.includes(location as any)) return {};
+  if (!serviceKey || !locations.includes(location as (typeof locations)[number])) return {};
 
   const locationName = location.charAt(0).toUpperCase() + location.slice(1);
   
@@ -94,11 +93,10 @@ export async function generateMetadata({params}: {params: {locale: string; servi
 }
 
 export default function ServiceLocationPage({params}: {params: {locale: string; service: string; location: string}}) {
-  const t = useTranslations();
   const {locale, service, location} = params;
 
   const serviceKey = serviceMap[service as keyof typeof serviceMap];
-  if (!serviceKey || !locations.includes(location as any)) {
+  if (!serviceKey || !locations.includes(location as (typeof locations)[number])) {
     notFound();
   }
 

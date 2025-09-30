@@ -5,7 +5,6 @@ import {notFound} from 'next/navigation';
 import "../globals.css";
 
 const locales = ['en', 'de'] as const;
-type Locale = typeof locales[number];
 
 const geistSans = localFont({
   src: "../fonts/GeistVF.woff",
@@ -54,7 +53,7 @@ export default async function LocaleLayout({
   params: {locale: string};
 }) {
   // Validate that the incoming `locale` parameter is valid
-  if (!locales.includes(locale as any)) {
+  if (!locales.includes(locale as (typeof locales)[number])) {
     notFound();
   }
 

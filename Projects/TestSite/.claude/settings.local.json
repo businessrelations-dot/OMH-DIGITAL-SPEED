@@ -25,7 +25,10 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(git lfs track:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "Bash(git stash:*)",
+      "Bash(git lfs:*)",
+      "Bash(git filter-repo:*)"
     ],
     "deny": [],
     "ask": []
